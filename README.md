@@ -6,5 +6,5 @@ By displaying the progression of the regression line during iterations, this scr
 
 ## Output
 
-![Output GIF](https://github.com/sohamsangole/Linear-Regression-Simulator/blob/main/gradient_descent_animation.gif)
+![](gradient_descent_animation.gif)
 
